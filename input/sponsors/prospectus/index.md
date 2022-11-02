@@ -3,7 +3,7 @@ title: Sponsor Prospectus
 template: subpage.html
 ---
 
-# Sponsor Prospectus - Online Conference
+# Sponsor Prospectus - Conference
 ---
 
 Presenting PyTexas 2023, the 13th Python Community Conference for the Texas Region. The purpose of PyTexas is to share Python-related knowledge and enthusiasm in the form of presentations, coding sprints, "teach me" sessions, and general networking among developers. It is run every year by volunteers from around the region.
