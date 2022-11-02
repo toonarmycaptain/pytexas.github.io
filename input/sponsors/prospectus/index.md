@@ -6,7 +6,7 @@ template: subpage.html
 # Sponsor Prospectus - Online Conference
 ---
 
-Presenting PyTexas 2023, the 12th Python Community Conference for the Texas Region. The purpose of PyTexas is to share Python-related knowledge and enthusiasm in the form of presentations, coding sprints, "teach me" sessions, and general networking among developers. It is run every year by volunteers from around the region.
+Presenting PyTexas 2023, the 13th Python Community Conference for the Texas Region. The purpose of PyTexas is to share Python-related knowledge and enthusiasm in the form of presentations, coding sprints, "teach me" sessions, and general networking among developers. It is run every year by volunteers from around the region.
 
 In 2012, PyTexas received national recognition from former Python Software Foundation chair Steve Holden as a regional conference that deserves the Python community's support.
 
@@ -24,7 +24,7 @@ information is available immediately below if you have any questions.
 ## Conference Profile
 
 **Estimated attendance:**
-We expect more than 200 in-person attendees for PyTexas 2023.
+We expect more than 200 in-person attendees for PyTexas 2022.
 
 **[Code of Conduct](/about/code-of-conduct)**
 
@@ -46,7 +46,7 @@ As a sponsor, your funding assistance will serve three critical purposes:
     - Drive adoption of your product
     - Simply show your support for the Texas Python community
 1. Build a better PyTexas by enabling organizers to attract attendees with standard conference perks such as printed t-shirts, catering, professional A/V, and more.
-1. Help keep the cost of PyTexas low. PyTexas 2023 attendees will pay a modest registration fee. Your sponsorship helps us keep this price reasonable for everyone involved.
+1. Help keep the cost of PyTexas low. PyTexas 2022 attendees will pay a modest registration fee. Your sponsorship helps us keep this price reasonable for everyone involved.
 
 ## Sponsorship Opportunities
 
@@ -56,74 +56,61 @@ most of your investment in the Python community.
 
 ### Standard Packages
 
-- **Keystone $10,000**
-    - Limit: 1/1 remaining
-    - Opportunity to speak (5 mins) prior to Day 1 keynote
-    - Prominent logo placement on title card for recorded talks
-    - Table/Booth Space in Sponsor area
-    - Name, link, and logo included on the PyTexas website
-    - Promotional items placed on the PyTexas swag table
-    - Company name and link thanked in PyTexas Twitter feed
-    - 6 free tickets to PyTexas
-    - 6 individual job postings on the PyTexas website, with a link to your company's job board.
-- **Platinum $2,500**
-    - Limit: 1/6 remaining
-    - Table/Booth Space in Sponsor area
-    - Name, link, and logo included on the PyTexas website
-    - Promotional items placed on the PyTexas swag table
-    - Company name and link thanked in PyTexas Twitter feed
-    - 4 individual job postings on the PyTexas website, with a link to your company's job board.
-    - 4 free tickets to PyTexas
-- **Gold $1,200**
-    - Name, link, and logo included on the PyTexas website
-    - Promotional items placed on the PyTexas swag table
-    - Company name and link thanked in PyTexas Twitter feed
-    - 3 individual job postings on the PyTexas website, with a link to your company's job board.
-    - 3 free tickets to PyTexas
-- **Silver $800**
-    - Name, link, and logo included on the PyTexas website
-    - Promotional items placed on the PyTexas swag table
-    - Company name and link thanked in PyTexas Twitter feed
-    - Link to your company's job board on the PyTexas website
-    - 2 free tickets to PyTexas
-- **Bronze $400**
-    - Available for individuals, non-profits, and startups of up to 10 employees
-    - Name, link, and logo included on the PyTexas website
-    - Promotional items placed on the PyTexas swag table
-    - Company name and link thanked in PyTexas Twitter feed
-    - Link to your company's job board on the PyTexas website
-    - 1 free ticket to PyTexas
+|                                                                     | Keystone   $50,000 | Platinum   $25,000 | Diamond   $10,000 | Gold   $5,000 | Silver   $2,500 | Bronze   $1,125 | Bronze-Personal   $500 |
+|---------------------------------------------------------------------|--------------------|--------------------|-------------------|---------------|-----------------|-----------------|------------------------|
+| Number Limit                                                        | 1                  | 2                  | 4                 | ∞             | ∞               | ∞               | ∞                      |
+| Free sponsor tickets                                                | 10                 | 5                  | 2                 | 1             |                 |                 | 1                      |
+| 10% discount conference tickets  (Corporate rate)                   | 20                 | 10                 | 4                 | 2             | 2               | 1               |                        |
+| Sponsor name, logo, link, and description on website                | ✓                  | ✓                  | ✓                 | ✓             | ✓               |                 |                        |
+| Plain text acknowlegement on Website                                |                    |                    |                   |               |                 | ✓               | ✓                      |
+| Optional “Is Hiring” indicator with link on website                 | ✓                  | ✓                  | ✓                 | ✓             |                 |                 |                        |
+| Logo in break video rotation                                        | ✓                  | ✓                  | ✓                 |               |                 |                 |                        |
+| Social media: Thanked in Twitter post                               | ✓                  | ✓                  | ✓                 | ✓             | ✓               | ✓               | ✓ [Optional]           |
+| Logo on conference T-SHIRT! Rear, small.                            | ✓                  | ✓                  | ✓                 |               |                 |                 |                        |
+| Exhibit Table                                                       | 2                  | 1                  | 1                 |               |                 |                 |                        |
+| Sponsor Banner stands  (2; provided by sponsor, more negotiable)    | ✓                  | ✓                  | ✓                 | 1             |                 |                 |                        |
+| Promotional items placed on seating tables in venue                 | ✓                  | ✓                  | ✓                 | ✓             | ✓               | ✓               |                        |
+| Logo featured on Speaker backdrop                                   | ✓                  | ✓                  |                   |               |                 |                 |                        |
+| Logo on ALL conference talk videos available forever                | ✓                  | ✓                  | $1,000            | $1,000        | $1,000          | $1,000          |                        |
+| Featured in wrap-up video with special thanks                       | Preeminent         | Preeminent         | Preeminent        | $1,000        | $1,000          | $1,000          |                        |
+| Optional ten minute speaking slot prior to Day 1 Keynote            | ✓                  | ✓                  |                   |               |                 |                 |                        |
+| Optional five minute speaking slot after a keynote (max 3 sponsors) | ✓                  | ✓                  |                   |               |                 |                 |                        |
+| 1 notification to attendees during the conference                   | ✓                  |                    |                   |               |                 |                 |                        |
+
 
 ### Exclusive Benefits
 
-PyTexas also offers several exclusive sponsor benefits on a first-come, first-served basis:
+PyTexas also offers several exclusive sponsor benefits on a first-come, first-served basis (add-ons available to sponsors at Gold tier or above):
 
-- **T-Shirt Sponsor ($2000)**
-    - One sponsorship available
+- **T-Shirt Sponsor ($5000)**
+    - Two sponsorships available
     - Company logo on sleeve of official conference tshirt
     - 10 free t-shirts
-- **Video Sponsor ($2000)**
-    - One sponsorship available
+- **Video Sponsor ($5000)**
+    - Five sponsorships available
     - Company logo featured prominently at the beginning and end of every talk recording ([example](https://www.youtube.com/watch?v=68z91dRJCOU))
-    - 3 free tickets to PyTexas
-- **Afterparty Sponsor ($2000)**
+    - Official promotion via website, schedule, and announcements
+    - 1 free ticket to PyTexas
+- **Afterparty Sponsor ($10000)**
     - One sponsorship available
     - Promote your organization by speaking at the afterparty
     - Official promotion via website, schedule, and announcements
-    - 3 free tickets to PyTexas
-- **Lanyard Sponsor ($2000)**
+    - 2 free tickets to PyTexas
+- **Lanyard Sponsor ($3500)**
     - One sponsorship available
     - Company logo featured on the conference badge lanyards
-    - 3 free tickets to PyTexas
+    - 1 free tickets to PyTexas
 - **Coffee Sponsor ($1000)**
     - Two sponsorships available
     - Sponsor one day of coffee
     - Company logo on coffee table for the day
-    - 2 free tickets to PyTexas
+    - Add-on: Sponsor coffee cups with sponsor's logo
 - **Diversity & Inclusion Sponsor ($1000)**
     - Unlimited sponsorships available
     - Contribute directly to financial aid
     - 2 free tickets to PyTexas
+- **Invitation Sponsor $Negotiable**
+    - Sponsor logo/link/brief message in email communications to attendees.
 
 Contact the Sponsor Chair for more details.
 ### Have an Idea?
